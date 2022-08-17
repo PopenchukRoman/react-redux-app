@@ -1,0 +1,12 @@
+.MyBtn {
+ height: 50px;
+ width:fit-content;
+ margin: 0px 10px;
+ padding: 5px 15px;  
+ color: white;
+ font-size: 24px;
+ background: teal;
+ border: 1px solid teal;
+ border-radius: 6px;
+ cursor: pointer;    
+}
