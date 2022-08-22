@@ -12,9 +12,8 @@ html, body {
   height: 100%;
 }
 .App {
-  display: flex;
-  /* background-color: #222; */
-  flex-direction: row;
+  display: flex;  
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100%;
